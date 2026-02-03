@@ -1,5 +1,6 @@
 standardization attributes data for specific waves
-
+Mean / Median
+or Mode
 
 1. Handling "Unknown" Columns (positin1)
 Validation: You are correct to be suspicious of positin1. However, looking at the dataset documentation, positin1 is actually a valid column (likely a typo in the original dataset for "position at start"). Data documentation says: "positin1: station number where started".
