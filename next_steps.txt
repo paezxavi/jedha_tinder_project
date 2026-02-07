@@ -1,7 +1,0 @@
-Ne comble pas les trous. Laisse les NaN tels quels.
-Fais deux sous-analyses.
-Une sur la population quasi-totale pour les attentes initiales.
-Une sur la sous-population (les 4096 participants) pour le ressenti à mi-parcours.
-Vérification (Bonus pour la rigueur) : Vérifie juste rapidement si la population de 4096 personnes est représentative. Est-ce que c'est, par exemple, seulement les Waves 1 à 10 ? Ou est-ce aléatoire ?
-Si c'est des Waves spécifiques, c'est très bien, tu précises juste dans ton analyse : "L'analyse à mi-parcours porte sur les waves X à Y".
-Si c'est aléatoire, vérifie juste qu'il n'y a pas de déséquilibre hommes/femmes bizarre dans ce sous-groupe (ex: si on a perdu tous les hommes en route, l'analyse sera biaisée).
