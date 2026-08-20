@@ -1,0 +1,17 @@
+# Tinder — Exploratory Data Analysis of the 2002-2004 Columbia speed dating experiment
+# Install with:  python3 -m venv .venv && .venv/bin/pip install -r requirements.txt
+
+# --- Notebook & data manipulation ---
+pandas==3.0.5
+numpy==2.5.2
+ipykernel==7.3.0            # Jupyter kernel for tinder_project.ipynb
+
+# --- Visualisation ---
+plotly==6.9.0               # the charts of the deliverable
+nbformat==5.11.0            # required by plotly to render figures inside the notebook
+
+# --- Legacy charts, to be dropped ---
+# Questions 1, 2 and 3 still draw with seaborn/matplotlib. They stay installed so the
+# notebook runs as-is; both lines go away once every chart is ported to plotly.
+seaborn==0.13.2
+matplotlib==3.11.1
