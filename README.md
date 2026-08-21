@@ -26,9 +26,10 @@ The value of the dataset is exactly that gap: it records both **what people say 
 
 Two properties drive the whole analysis:
 
-- **One row is one directed date**, not one couple. Every four-minute date is recorded twice, once
-  from each side (8 368 distinct `(iid, pid)` pairs, all with their reciprocal row). The unit of
-  observation is *"how I rated my partner, and what I decided"*.
+- **One row is one directed date**, not one couple. Every date is recorded twice, once from each
+  side (8 368 distinct `(iid, pid)` pairs, all with their reciprocal row). The unit of observation
+  is *"how I rated my partner, and what I decided"*. The four-minute duration comes from the
+  codebook's `length` question — *"Four minutes is: too little / too much / just right"*.
 - **Waves are not the same size.** Participants met between 5 and 22 partners, so `order` — the rank
   of a date within the evening — does not mean the same thing across waves.
 
@@ -63,7 +64,7 @@ away *thinking so*.
 ### 3. Nobody knows what they are worth
 
 Participants rate themselves about a point above what the room gives them, on every attribute, and
-**72% overestimate their own attractiveness**. The bias is uniform rather than concentrated on
+**73% overestimate their own attractiveness**. The bias is uniform rather than concentrated on
 particular traits, and the individual spread is larger than the bias itself.
 
 ### 4. Position in the queue is not neutral, and the pattern is a U
@@ -71,8 +72,9 @@ particular traits, and the individual spread is larger than the bias itself.
 ![First against last](images/4_5_first_vs_last.png)
 
 The first date of the evening gets a yes 49.9% of the time and the last 45.2%, against 41.2% in
-between. Once relative position is used instead of raw rank, the apparent fatigue slope disappears
-entirely — what remains is that the ends of the evening are judged more generously than the middle.
+between — read against the 42.0% yes-rate over all 8 378 dates. Once relative position is used
+instead of raw rank, the apparent fatigue slope disappears entirely — what remains is that the
+ends of the evening are judged more generously than the middle.
 
 ## What this data cannot tell us
 
