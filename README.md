@@ -41,22 +41,20 @@ Participants said yes on **42%** of their dates; **16.5%** ended in a mutual mat
 
 ![Declared against real](images/4_2_declared_vs_real.png)
 
-Men declare attractiveness first and use it first: no gap. Women declare it *third*, behind
-intelligence and sincerity, and it drives their decisions more strongly than any other attribute.
-Intelligence makes the opposite trip for both, from the top of the declared list to fourth or fifth
-in practice.
-
-Two independent methods agree: correlation with the decision, and participants' own day-after
-accounting, which moves attractiveness **+8.3 points** of budget.
+Men declare attractiveness first and use it first: no gap. Women declare it *second*, behind
+intelligence and by three points, and it then drives their decisions more strongly than any other
+attribute. Intelligence makes the opposite trip for both, from the top of the declared list to
+fourth or fifth in practice.
 
 ### 2. Perceived common ground predicts a second date. Actual common ground does not.
 
 ![Interests against race](images/4_3_interests_vs_race.png)
 
 Compared naively, shared interests crush racial background by a factor of seventeen. Compared
-fairly — both measured *before* anyone met — interests genuinely in common (+0.019) predict a second
-date no better than a shared racial background (+0.023), and both are indistinguishable from
-nothing.
+fairly — both measured *before* anyone met — interests genuinely in common score **+0.019**, 95%
+interval [−0.003, +0.040], against **+0.023** for a shared racial background, [+0.002, +0.044]. The
+two intervals overlap almost entirely, so neither can be called the stronger, and neither comes
+anywhere near the **+0.401** of the perceived version.
 
 What predicts a yes is not whether two people have things in common. It is whether one of them came
 away *thinking so*.
@@ -67,21 +65,21 @@ Participants rate themselves about a point above what the room gives them, on ev
 **73% overestimate their own attractiveness**. The bias is uniform rather than concentrated on
 particular traits, and the individual spread is larger than the bias itself.
 
-### 4. Position in the queue is not neutral, and the pattern is a U
+### 4. Position in the queue is not neutral — the first slot, specifically
 
 ![First against last](images/4_5_first_vs_last.png)
 
-The first date of the evening gets a yes 49.9% of the time and the last 45.2%, against 41.2% in
-between — read against the 42.0% yes-rate over all 8 378 dates. Once relative position is used
-instead of raw rank, the apparent fatigue slope disappears entirely — what remains is that the
-ends of the evening are judged more generously than the middle.
+The first date of the evening gets a yes **49.9%** of the time against **41.2%** for everything in
+between: a gap of **+8.7 points**, 95% interval [+4.4, +13.0], clear of zero. The last date sits at
+45.2%, but its +4.0 points carry an interval of [−0.3, +8.3] and we do not count it. Once relative
+position is used instead of raw rank, the apparent fatigue slope disappears entirely — what remains
+is a first-date premium, not a shape.
 
 ## What this data cannot tell us
 
 Worth saying before any of it reaches a roadmap: it is **twenty years old**, collected from Columbia
-graduate students; **four minutes face to face is not a swipe**; the measured effects are **small**,
-with the strongest pre-event predictor barely clearing +0.02; and nothing here was randomised except
-the pairing, so none of it is causal.
+graduate students; **four minutes face to face is not a swipe**; and nothing here was randomised
+except the pairing, so none of it is causal.
 
 ## Running it
 
