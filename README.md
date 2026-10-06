@@ -5,7 +5,7 @@ Tinder's marketing team.
 
 Jedha *Full Stack Data Scientist* — **Block 2, Exploratory Data Analysis**.
 
-The full analysis, with every cleaning decision and its measured effect, is in
+The full analysis, with every cleaning decision and the rule behind it, is in
 [`tinder_project.ipynb`](tinder_project.ipynb).
 
 ## The problem
