@@ -54,7 +54,7 @@ Compared naively, shared interests crush racial background by a factor of sevent
 fairly — both measured *before* anyone met — interests genuinely in common score **+0.019**, 95%
 interval [−0.003, +0.040], against **+0.023** for a shared racial background, [+0.002, +0.044]. The
 two intervals overlap almost entirely, so neither can be called the stronger, and neither comes
-anywhere near the **+0.401** of the perceived version.
+anywhere near the **+0.402** of the perceived version.
 
 What predicts a yes is not whether two people have things in common. It is whether one of them came
 away *thinking so*.
