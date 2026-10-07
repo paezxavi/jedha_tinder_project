@@ -71,9 +71,7 @@ particular traits, and the individual spread is larger than the bias itself.
 
 The first date of the evening gets a yes **49.9%** of the time against **41.2%** for everything in
 between: a gap of **+8.7 points**, 95% interval [+4.4, +13.0], clear of zero. The last date sits at
-45.2%, but its +4.0 points carry an interval of [−0.3, +8.3] and we do not count it. Once relative
-position is used instead of raw rank, the apparent fatigue slope disappears entirely — what remains
-is a first-date premium, not a shape.
+45.2%, but its +4.0 points carry an interval of [−0.3, +8.3] and we do not count it.
 
 ## What this data cannot tell us
 
